@@ -22,7 +22,7 @@
 
 I am a **self-driven Computer Science undergraduate** with strong foundations in **Java, C++, and Full Stack Web Development**.
 
-- 🎓 **Sri Krishna College of Technology** (CGPA: 7.92/10)  
+- 🎓 **Sri Krishna College of Technology** (CGPA: 7.97/10)  
 - 🌱 Currently learning **Advanced DSA, Spring Boot & Cloud (AWS)**  
 - 🧠 Solved **100+ LeetCode Problems**  
 - 💡 Passionate about building scalable REST APIs and responsive UIs  
